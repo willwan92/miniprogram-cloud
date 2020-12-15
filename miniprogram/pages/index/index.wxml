@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<button bindtap="getInArray">数组查询</button>
+<button bindtap="getField">字段类型查询</button>
+<button bindtap="getWithRegexp">正则查询</button>
+
+<button bindtap="addPoint">addPoint</button>
+<button bindtap="getPoint">getPoint</button>
+
+<button bindtap="getFileUrl">getFileUrl</button>
